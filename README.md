@@ -14,3 +14,7 @@ CLI XRC : ~~```7CUUfaa4akH7NhzyWYWk829tdE7btsfCL43qLF4SWUpLcBoKnSuJkjne4qYnzA5gW
 GUI XRC : ```7EKNZ3x2fDnZ884Jzyg4nrepLmsnBNx75TXKA8uuTfjWMvNkQs53qXjGyKMLiXefiuPj2RKceBh4cVwTLQMUPMzhLsxsbSA```
 
 XRC ER1 : ```7CtaeSzHLQNhFZmd8W6byEZPFGtUfhejmacPHzmCUBFnLthwz7TDoqoH628msu3VBdKaA26bNXZW6QmYayqZNktbDgBnSps```
+
+-------------------------------------------------------
+
+CLIENT1 : ```7McvGXTyr7sSEEoFF9itH1Vwy5YfQ7gXW6sH6gEN6a7dCrmVBU2jEqmBWAhqzdp2tF5qZDaQsjN9peVhaNTxaWrUMdKq2zH```
