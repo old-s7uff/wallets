@@ -18,3 +18,4 @@ XRC ER1 : ```7CtaeSzHLQNhFZmd8W6byEZPFGtUfhejmacPHzmCUBFnLthwz7TDoqoH628msu3VBdK
 -------------------------------------------------------
 
 CLIENT1 : ```7McvGXTyr7sSEEoFF9itH1Vwy5YfQ7gXW6sH6gEN6a7dCrmVBU2jEqmBWAhqzdp2tF5qZDaQsjN9peVhaNTxaWrUMdKq2zH```
+>>>>>>> : ```7DNWBa5xD3F8wEkXGmpSmT6fHtqYkpKSJZSomXnB4GNhWZndbNqEvzpKeeA2KuPdB9Hv9fEw6AardTYgjsF2SEzRMe7L84X```
